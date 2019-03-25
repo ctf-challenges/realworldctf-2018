@@ -1,0 +1,1 @@
+Writing a vm is the best way to teach kids to learn vm escape.

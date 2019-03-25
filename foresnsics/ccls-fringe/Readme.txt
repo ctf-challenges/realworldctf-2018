@@ -1,0 +1,1 @@
+Ray said that the challenge "Leaf-Similar Trees" from last LeetCode Weekly was really same-fringe problem and wrote it in the form of coroutine which he learned from a Stanford friend. Can you decrypt the cache file dumped from a language server without reading the source code? The flag is not in the form of rwctf{} because special characters cannot be used. 
